@@ -1,0 +1,13 @@
+Arvores estritamente binarias -> 0 ou 2 filhos somente
+Arvores binarias completas -> sub arvores vazias apenas no ultimo ou penultimo nivel
+arvore binaria cheia -> subarveores vazias somente no ultimo nivel
+
+inserir um valor no final do vetor -> insertion sort (mais rapido de todos nesse caso)
+
+Caminhamento em Arvore binaria
+Existem tipos:
+- pre-ordem -> vem imprimindo da raiz para folhas
+- em ordem -> da esquerda para direita, do nivel mais baixo para o nivel mais alto, em codigo(Visita o filho da esquerda -> visita o no corrente/atual -> Visita o filho da direita)
+- pos-ordem -> vem imprimindo das folhas  para raiz
+
+Para verificar se é uma arvore de busca binaria ou nao:

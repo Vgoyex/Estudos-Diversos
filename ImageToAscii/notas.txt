@@ -1,0 +1,3 @@
+1 - Ler a imagem
+2 - Mapear a imagem
+3 - Refazer a imagem com caracteres da tabela ascii/ Substituir o que foi lido com caracteres da tabela ascii

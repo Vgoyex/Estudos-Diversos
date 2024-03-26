@@ -1,0 +1,9 @@
+﻿  FDS.cpp
+D:\_Prog-Stuff\FDS\FDS\FDS.cpp(68,21): warning C4473: 'scanf_s' : não há argumentos suficientes transmitidos para a cadeia de caracteres de formato
+D:\_Prog-Stuff\FDS\FDS\FDS.cpp(68,21): message : espaços reservados e seus parâmetros esperam 1 argumentos variadic, mas 0 foram fornecidos
+D:\_Prog-Stuff\FDS\FDS\FDS.cpp(68,21): message : o argumento variadic 1 ausente é requerido pela cadeia de formato '%d'
+D:\_Prog-Stuff\FDS\FDS\FDS.cpp(69,21): warning C4473: 'scanf_s' : não há argumentos suficientes transmitidos para a cadeia de caracteres de formato
+D:\_Prog-Stuff\FDS\FDS\FDS.cpp(69,21): message : espaços reservados e seus parâmetros esperam 2 argumentos variadic, mas 1 foram fornecidos
+D:\_Prog-Stuff\FDS\FDS\FDS.cpp(69,21): message : o argumento variadic 2 ausente é requerido pela cadeia de formato '%c'
+D:\_Prog-Stuff\FDS\FDS\FDS.cpp(69,21): message : esse argumento é usado como um tamanho do buffer
+  FDS.vcxproj -> D:\_Prog-Stuff\FDS\x64\Debug\FDS.exe
